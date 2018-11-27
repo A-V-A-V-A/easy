@@ -1,14 +1,14 @@
 {
-  "main.css": "/try-github-pages.io/static/css/main.6ad3e96e.chunk.css",
-  "main.js": "/try-github-pages.io/static/js/main.0f99cd0b.chunk.js",
-  "main.js.map": "/try-github-pages.io/static/js/main.0f99cd0b.chunk.js.map",
-  "static/js/1.dcd800a0.chunk.js": "/try-github-pages.io/static/js/1.dcd800a0.chunk.js",
-  "static/js/1.dcd800a0.chunk.js.map": "/try-github-pages.io/static/js/1.dcd800a0.chunk.js.map",
-  "runtime~main.js": "/try-github-pages.io/static/js/runtime~main.bf52257a.js",
-  "runtime~main.js.map": "/try-github-pages.io/static/js/runtime~main.bf52257a.js.map",
-  "static/media/swe.png": "/try-github-pages.io/static/media/swe.bf188f4e.png",
-  "static/css/main.6ad3e96e.chunk.css.map": "/try-github-pages.io/static/css/main.6ad3e96e.chunk.css.map",
-  "index.html": "/try-github-pages.io/index.html",
-  "precache-manifest.25e5319224d66a6b6794a3326bd19c72.js": "/try-github-pages.io/precache-manifest.25e5319224d66a6b6794a3326bd19c72.js",
-  "service-worker.js": "/try-github-pages.io/service-worker.js"
+  "main.css": "/easy.io/static/css/main.18e87849.chunk.css",
+  "main.js": "/easy.io/static/js/main.fb28504b.chunk.js",
+  "main.js.map": "/easy.io/static/js/main.fb28504b.chunk.js.map",
+  "static/js/1.dcd800a0.chunk.js": "/easy.io/static/js/1.dcd800a0.chunk.js",
+  "static/js/1.dcd800a0.chunk.js.map": "/easy.io/static/js/1.dcd800a0.chunk.js.map",
+  "runtime~main.js": "/easy.io/static/js/runtime~main.2ab15fe8.js",
+  "runtime~main.js.map": "/easy.io/static/js/runtime~main.2ab15fe8.js.map",
+  "static/media/swe.png": "/easy.io/static/media/swe.bf188f4e.png",
+  "static/css/main.18e87849.chunk.css.map": "/easy.io/static/css/main.18e87849.chunk.css.map",
+  "index.html": "/easy.io/index.html",
+  "precache-manifest.6bf3a011b58990cfd10d39f78715540b.js": "/easy.io/precache-manifest.6bf3a011b58990cfd10d39f78715540b.js",
+  "service-worker.js": "/easy.io/service-worker.js"
 }
