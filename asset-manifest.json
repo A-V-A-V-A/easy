@@ -1,14 +1,14 @@
 {
-  "main.css": "/easy.io/static/css/main.18e87849.chunk.css",
-  "main.js": "/easy.io/static/js/main.fb28504b.chunk.js",
-  "main.js.map": "/easy.io/static/js/main.fb28504b.chunk.js.map",
-  "static/js/1.dcd800a0.chunk.js": "/easy.io/static/js/1.dcd800a0.chunk.js",
-  "static/js/1.dcd800a0.chunk.js.map": "/easy.io/static/js/1.dcd800a0.chunk.js.map",
-  "runtime~main.js": "/easy.io/static/js/runtime~main.2ab15fe8.js",
-  "runtime~main.js.map": "/easy.io/static/js/runtime~main.2ab15fe8.js.map",
-  "static/media/swe.png": "/easy.io/static/media/swe.bf188f4e.png",
-  "static/css/main.18e87849.chunk.css.map": "/easy.io/static/css/main.18e87849.chunk.css.map",
-  "index.html": "/easy.io/index.html",
-  "precache-manifest.6bf3a011b58990cfd10d39f78715540b.js": "/easy.io/precache-manifest.6bf3a011b58990cfd10d39f78715540b.js",
-  "service-worker.js": "/easy.io/service-worker.js"
+  "main.css": "/easy/static/css/main.18e87849.chunk.css",
+  "main.js": "/easy/static/js/main.fb28504b.chunk.js",
+  "main.js.map": "/easy/static/js/main.fb28504b.chunk.js.map",
+  "static/js/1.dcd800a0.chunk.js": "/easy/static/js/1.dcd800a0.chunk.js",
+  "static/js/1.dcd800a0.chunk.js.map": "/easy/static/js/1.dcd800a0.chunk.js.map",
+  "runtime~main.js": "/easy/static/js/runtime~main.2388355d.js",
+  "runtime~main.js.map": "/easy/static/js/runtime~main.2388355d.js.map",
+  "static/media/swe.png": "/easy/static/media/swe.bf188f4e.png",
+  "static/css/main.18e87849.chunk.css.map": "/easy/static/css/main.18e87849.chunk.css.map",
+  "index.html": "/easy/index.html",
+  "precache-manifest.31a2a44cf68869335e3d927346976550.js": "/easy/precache-manifest.31a2a44cf68869335e3d927346976550.js",
+  "service-worker.js": "/easy/service-worker.js"
 }
