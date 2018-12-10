@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/easy.io/static/js/runtime~main.2ab15fe8.js"
   },
   {
-    "revision": "7ed41b0ec3ef800835a7",
-    "url": "/easy.io/static/js/main.7ed41b0e.chunk.js"
+    "revision": "64933f3bad1a5aa2631e",
+    "url": "/easy.io/static/js/main.64933f3b.chunk.js"
   },
   {
-    "revision": "3d22c25bf107b5b0dfab",
-    "url": "/easy.io/static/js/1.3d22c25b.chunk.js"
+    "revision": "4f4273e30969d9b830e4",
+    "url": "/easy.io/static/js/1.4f4273e3.chunk.js"
   },
   {
-    "revision": "7ed41b0ec3ef800835a7",
-    "url": "/easy.io/static/css/main.ddde988f.chunk.css"
+    "revision": "64933f3bad1a5aa2631e",
+    "url": "/easy.io/static/css/main.d8c13523.chunk.css"
   },
   {
-    "revision": "3c1555f308f4c115894994cfac61a682",
+    "revision": "4b77326063c5d0e48abdce014074e91c",
     "url": "/easy.io/index.html"
   }
 ];
