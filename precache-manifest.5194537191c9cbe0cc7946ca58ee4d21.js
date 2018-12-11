@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/easy.io/static/js/runtime~main.2ab15fe8.js"
   },
   {
-    "revision": "597db1a34462ef1d4c04",
-    "url": "/easy.io/static/js/main.597db1a3.chunk.js"
+    "revision": "231e83ab29effb57bff5",
+    "url": "/easy.io/static/js/main.231e83ab.chunk.js"
   },
   {
     "revision": "e8edf8af8dfa9207332b",
     "url": "/easy.io/static/js/1.e8edf8af.chunk.js"
   },
   {
-    "revision": "597db1a34462ef1d4c04",
-    "url": "/easy.io/static/css/main.5f9fc221.chunk.css"
+    "revision": "231e83ab29effb57bff5",
+    "url": "/easy.io/static/css/main.f11cd927.chunk.css"
   },
   {
-    "revision": "c70443fcedfa96225fdd8281ad50584e",
+    "revision": "62da9bb64496385b7fe3c5bb5cc3283f",
     "url": "/easy.io/index.html"
   }
 ];
