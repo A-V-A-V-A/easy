@@ -1,7 +1,7 @@
 {
   "main.css": "/easy.io/static/css/main.f11cd927.chunk.css",
-  "main.js": "/easy.io/static/js/main.231e83ab.chunk.js",
-  "main.js.map": "/easy.io/static/js/main.231e83ab.chunk.js.map",
+  "main.js": "/easy.io/static/js/main.dd21cbb3.chunk.js",
+  "main.js.map": "/easy.io/static/js/main.dd21cbb3.chunk.js.map",
   "static/js/1.e8edf8af.chunk.js": "/easy.io/static/js/1.e8edf8af.chunk.js",
   "static/js/1.e8edf8af.chunk.js.map": "/easy.io/static/js/1.e8edf8af.chunk.js.map",
   "runtime~main.js": "/easy.io/static/js/runtime~main.2ab15fe8.js",
@@ -13,6 +13,6 @@
   "static/media/sexplo.jpg": "/easy.io/static/media/sexplo.342144b5.jpg",
   "static/css/main.f11cd927.chunk.css.map": "/easy.io/static/css/main.f11cd927.chunk.css.map",
   "index.html": "/easy.io/index.html",
-  "precache-manifest.5194537191c9cbe0cc7946ca58ee4d21.js": "/easy.io/precache-manifest.5194537191c9cbe0cc7946ca58ee4d21.js",
+  "precache-manifest.0075db353359489beb21bafb4d2a87ae.js": "/easy.io/precache-manifest.0075db353359489beb21bafb4d2a87ae.js",
   "service-worker.js": "/easy.io/service-worker.js"
 }
